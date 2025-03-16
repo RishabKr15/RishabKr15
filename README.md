@@ -3,7 +3,8 @@
 
 
 ### 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast
-![GitHub Cover](https://source.unsplash.com/1600x500/?data,technology,ai)
+![images](https://github.com/user-attachments/assets/0a2d35f6-831f-4a21-8861-c20f7347ae4a)
+
 
 Passionate about turning data into meaningful insights and building intelligent systems. I specialize in **machine learning, deep learning, and data analytics** to solve real-world problems.
 
