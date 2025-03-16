@@ -1,6 +1,9 @@
 ## Hi there, I'm Rishabh Kumar! 👋
+![Rishabh_kumar](https://github.com/user-attachments/assets/cdad9b54-d8af-4b6a-8f10-e0749154a3b1)
+
 
 ### 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast
+![GitHub Cover](https://source.unsplash.com/1600x500/?data,technology,ai)
 
 Passionate about turning data into meaningful insights and building intelligent systems. I specialize in **machine learning, deep learning, and data analytics** to solve real-world problems.
 
