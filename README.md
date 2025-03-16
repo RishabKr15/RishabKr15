@@ -11,14 +11,15 @@ Passionate about turning data into meaningful insights and building intelligent 
 
 ### 🔍 About Me
 - 🎓 Final-year Computer Science student
+-  📚 Currently working as **Data Science Trainee at AlmaBetter**
 - 🤖 Exploring advanced **machine learning & AI** techniques
 - 📊 Experienced in **Power BI , MS Excel, Tableau** & data visualization
 - 💡 Open to **collaborations on AI/ML projects**
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, SQL, R
+- **Languages:** Python, SQL, HTML, CSS, JavaScript
 - **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn
-- **Tools & Platforms:** Power BI, Tableau, Google Colab, Jupyter Notebook
+- **Tools & Platforms:** Power BI, Tableau, MS Excel, Google Colab, Jupyter Notebook
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
 
