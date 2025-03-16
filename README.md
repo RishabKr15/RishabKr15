@@ -1,5 +1,4 @@
 ## Hi there, I'm Rishabh Kumar! 👋
-![Rishabh_kumar](https://github.com/user-attachments/assets/cdad9b54-d8af-4b6a-8f10-e0749154a3b1)
 
 
 ### 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast
