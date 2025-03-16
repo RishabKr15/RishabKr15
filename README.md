@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Rishabh Kumar! 👋
 
-<!--
-**RishabKr15/RishabKr15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast
 
-Here are some ideas to get you started:
+Passionate about turning data into meaningful insights and building intelligent systems. I specialize in **machine learning, deep learning, and data analytics** to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 About Me
+- 🎓 Final-year Computer Science student
+- 🤖 Exploring advanced **machine learning & AI** techniques
+- 📊 Experienced in **Power BI , MS Excel, Tableau** & data visualization
+- 💡 Open to **collaborations on AI/ML projects**
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, R
+- **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn
+- **Tools & Platforms:** Power BI, Tableau, Google Colab, Jupyter Notebook
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Version Control:** Git, GitHub
+
+---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishabhKumar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhKumar&layout=compact&theme=radical)
+
+---
+
+
+### 📫 Connect with Me
+[![LinkedIn](https://www.linkedin.com/in/rishabh-kumar-922072195/) 
+
+🚀 **Let's build data-driven solutions together!**
