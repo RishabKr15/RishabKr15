@@ -33,7 +33,8 @@ Passionate about turning data into meaningful insights and building intelligent 
 
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/rishabh-kumar-922072195/)])
-
+<a href="https://www.linkedin.com/in/rishabh-kumar-922072195/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
 
 🚀 **Let's build data-driven solutions together!**
