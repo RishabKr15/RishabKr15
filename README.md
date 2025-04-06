@@ -17,7 +17,7 @@ Passionate about turning data into meaningful insights and building intelligent 
 - 💡 Open to **collaborations on AI/ML projects**
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, SQL, HTML, CSS, JavaScript
+- **Languages:** Python, SQL, C++, HTML, CSS, JavaScript
 - **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn
 - **Tools & Platforms:** Power BI, Tableau, MS Excel, Google Colab, Jupyter Notebook
 - **Databases:** MySQL, PostgreSQL, MongoDB
