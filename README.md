@@ -11,7 +11,7 @@ Passionate about turning data into meaningful insights and building intelligent 
 
 ### 🔍 About Me
 - 🎓 Final-year Computer Science student
--  📚 Currently working as **Data Science Trainee at AlmaBetter**
+-  📚  **Data Science Trainee at AlmaBetter**
 - 🤖 Exploring advanced **machine learning & AI** techniques
 - 📊 Experienced in **Power BI , MS Excel, Tableau** & data visualization
 - 💡 Open to **collaborations on AI/ML projects**
