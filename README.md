@@ -11,7 +11,7 @@ Passionate about turning data into meaningful insights and building intelligent 
 
 ### 🔍 About Me
 - 🎓  Computer Science Graduate
--  📚  Data Science Trainee at AlmaBetter
+-  📚  Certified Data Science Trainee from AlmaBetter
 - 🤖 Exploring advanced **machine learning & AI** techniques
 - 📊 Experienced in **Power BI , MS Excel, Tableau** & data visualization
 - 💡 Open to **collaborations on AI/ML projects**
