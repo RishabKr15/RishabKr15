@@ -10,6 +10,7 @@ Passionate about turning data into meaningful insights and building intelligent 
 ---
 
 ### 🔍 About Me
+-     Data Science Engineer at V Patrol AI
 - 🎓  Computer Science Graduate
 -  📚  Certified Data Science Trainee from AlmaBetter
 - 🤖 Exploring advanced **machine learning & AI** techniques
