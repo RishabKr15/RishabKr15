@@ -18,9 +18,9 @@ Passionate about turning data into meaningful insights and building intelligent 
 - 💡 Open to **collaborations on AI/ML projects**
 
 ### 🛠️ Tech Stack
-- **Languages , Tools and Techniques:** Python, SQL, C++, HTML, CSS, JavaScript, Generative AI
-- **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn, OpenCV, Hugging Face, LangChain
-- **Tools & Platforms:** Power BI, Tableau, MS Excel, Google Colab, Jupyter Notebook
+- **Languages , Tools and Techniques:** Python, SQL, C++, HTML, CSS, JavaScript, Generative AI, Agentic AI
+- **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn, OpenCV, Hugging Face, LangChain, LangGraph
+- **Tools & Platforms:** Power BI, Tableau, MS Excel, Google Colab, Jupyter Notebook, Ollama, AWS, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
 
