@@ -1,7 +1,7 @@
 ## Hi there, I'm Rishabh Kumar! 👋
 
 
-### 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast
+### 🚀 Data Scientist | AI/ML Engineer
 ![images](https://github.com/user-attachments/assets/0a2d35f6-831f-4a21-8861-c20f7347ae4a)
 
 
@@ -10,7 +10,7 @@ Passionate about turning data into meaningful insights and building intelligent 
 ---
 
 ### 🔍 About Me
-*   Data Science Engineer at V Patrol AI
+- 🎓 Data Science Engineer at V Patrol AI
 - 🎓  Computer Science Graduate
 -  📚  Certified Data Science Trainee from AlmaBetter
 - 🤖 Exploring advanced **machine learning & AI** techniques
